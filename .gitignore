@@ -1,8 +1,8 @@
 .vscode/
-# /config
+/config
 logs
 logs/*
-# config.*.json
+config.*.json
 public/js/jsbin*.js
 .nodemonignore
 public/js/prod
