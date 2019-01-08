@@ -1,4 +1,4 @@
-# JSBIN LOCAL
+# JSBIN LOCAL [@jsbin/jsbin](https://github.com/jsbin/jsbin)
 
 # 1 前端构建部署
 
